@@ -16,8 +16,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![Image of Dynamic Javascript Quiz](/Assets/images/Screenshot%202024-01-05%20134257.png)
 
+Link: https://summerof1993.github.io/Week-4-Challenge-Dynamic-Quiz/
 
 ## License
 
